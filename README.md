@@ -1,4 +1,4 @@
 # SpivakInlean
 Proving Spivak in Lean 4
-## Preliminaries
+## Preliminary
 ## Basic Properties of Numbers
